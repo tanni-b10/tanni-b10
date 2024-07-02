@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  an SDE @tanni-b10
 - 👀 I’m interested in Fullstack, Reactjs/native, Devops.....
-- 🌱 Data structures and algo , CS fundamentls.
+- 🌱 Data structures and algo , CS fundamentals.
 - 💞️ I’m looking to collaborate on ... anyone with great ideas
 - 📫 How to reach me ... tanishk.batra.work@gmail.com
 
